@@ -1,0 +1,62 @@
+body{
+    background-color: #fce8ff;
+}
+h1{
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-size: 4em;
+    color: #ff9ef7;
+    text-align: center;
+    
+}
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+background-color: #fc88e3;
+overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+float: left;
+font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+background-color: #ffe4f7;
+color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+background-color: #ff13c4;
+color: white;
+}
+
+.videoBox{
+    padding: 60px;
+    margin: auto;
+}
+
+.mainBox{
+    padding: 60px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-size: 2em;
+    color: rgb(242, 101, 178);
+}
+
+img{
+    padding: 60px;
+    border-radius: 50%;
+}
+
+
+
+
+  
